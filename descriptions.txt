@@ -1,0 +1,40 @@
+============================================================
+Дата: 2026-10-22 11:02:16
+Изображение: apple.jpg
+Описание: an apple on a wooden table
+Модель изображения: Salesforce/blip-image-captioning-base
+Модель озвучивания: facebook/mms-tts-eng
+Аудиофайл: C:\Users\KITI\PycharmProjects\PythonProject91\output\apple_description.wav
+
+============================================================
+Дата: 2026-10-22 11:02:18
+Изображение: fish2.jpg
+Описание: a fish tank filled with water and rocks
+Модель изображения: Salesforce/blip-image-captioning-base
+Модель озвучивания: facebook/mms-tts-eng
+Аудиофайл: C:\Users\KITI\PycharmProjects\PythonProject91\output\fish2_description.wav
+
+============================================================
+Дата: 2026-10-22 11:02:20
+Изображение: img.png
+Описание: a woman riding a bike down a path
+Модель изображения: Salesforce/blip-image-captioning-base
+Модель озвучивания: facebook/mms-tts-eng
+Аудиофайл: C:\Users\KITI\PycharmProjects\PythonProject91\output\img_description.wav
+
+============================================================
+Дата: 2026-10-22 11:02:24
+Изображение: img_1.png
+Описание: a dog sitting in a field of grass
+Модель изображения: Salesforce/blip-image-captioning-base
+Модель озвучивания: facebook/mms-tts-eng
+Аудиофайл: C:\Users\KITI\PycharmProjects\PythonProject91\output\img_1_description.wav
+
+============================================================
+Дата: 2026-10-22 11:02:29
+Изображение: street.jpg
+Описание: a busy street in new york, new york, new york, new york, new york, new york, new york, new york, new york, ny, ny, usa
+Модель изображения: Salesforce/blip-image-captioning-base
+Модель озвучивания: facebook/mms-tts-eng
+Аудиофайл: C:\Users\KITI\PycharmProjects\PythonProject91\output\street_description.wav
+
